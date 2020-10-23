@@ -9,3 +9,8 @@ First Client sent SYN Packet to the Server, Server will respond with a SYN-ACK P
 3, Hypertext Transfer Protocal (HTTP): 
 
 Client will sent a request and server will sent response.
+
+
+Todo list: 1, Set up a Youtube thing
+           2, Set up a podcast
+           3, Capture Packet
