@@ -23,9 +23,8 @@
    A, Create a /etc/yum.repos.d/mongodb-org-4.4.repo file so that you can install MongoDB directly using yum
    
    Command: `vim /etc/yum.repos.d/mongodb-org-4.4.repo`
-      ```
+   
       [mongodb-org-4.4]
-      
       name=MongoDB Repository
       
       baseurl=https://repo.mongodb.org/yum/redhat/$releasever/mongodb-org/4.4/x86_64/
