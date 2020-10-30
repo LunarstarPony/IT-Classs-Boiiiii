@@ -18,3 +18,14 @@
    
    C, Verify the Node.js and npm Installation by typing `node --version` and `npm --version`
 ```
+#### 2, Install MongoDB
+```
+   A, Create a /etc/yum.repos.d/mongodb-org-4.4.repo file so that you can install MongoDB directly using yum
+      ```
+      [mongodb-org-4.4]
+      name=MongoDB Repository
+      baseurl=https://repo.mongodb.org/yum/redhat/$releasever/mongodb-org/4.4/x86_64/
+      gpgcheck=1
+      enabled=1
+      gpgkey=https://www.mongodb.org/static/pgp/server-4.4.asc
+      ```
