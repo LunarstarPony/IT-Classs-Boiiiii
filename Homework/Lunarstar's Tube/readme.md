@@ -15,8 +15,6 @@
    A, We need to add yum repository by typing `sudo curl -sL https://rpm.nodesource.com/setup_10.x | sudo bash -`
    
    B, Once Repo is Installed, Type `sudo yum install nodejs` to install Node.js
-   
-   C, Verify the Node.js and npm Installation by typing `node --version` and `npm --version`
 
 #### 2, Install MongoDB
 
@@ -48,4 +46,24 @@
 
    A, The RPM Fusion repository depends on the EPEL software repository. If the EPEL is not enabled on your system, enable it by typing:
    
-      sudo yum install epel-release
+      sudo yum -y install epel-release
+      
+   B, Install RPM Fusion by typing 
+   
+      sudo yum localinstall --nogpgcheck https://download1.rpmfusion.org/free/el/rpmfusion-free-release-7.noarch.rpm
+      
+   C, Once the repo is enable, Install FFmpeg
+   
+      sudo yum install ffmpeg ffmpeg-devel
+     
+#### 5,Enable and Start all the Service we just install
+
+   A, Enable all the service by typing
+      
+      sudo systemctl enable mongod
+      sudo systemctl enable redis
+      
+   B, Start all the service by typing
+      
+      sudo systemctl start mongod
+      sudo systemctl start redis
