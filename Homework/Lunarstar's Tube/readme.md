@@ -11,16 +11,17 @@
 ### A, Installing Prerequisites
 
 #### 1, Install Node.js
-```
+
    A, We need to add yum repository by typing `curl -sL https://rpm.nodesource.com/setup_10.x | sudo bash -`
    
    B, Once Repo is Installed, Type `sudo yum install nodejs` to install Node.js
    
    C, Verify the Node.js and npm Installation by typing `node --version` and `npm --version`
-```
+
 #### 2, Install MongoDB
-```
+
    A, Create a /etc/yum.repos.d/mongodb-org-4.4.repo file so that you can install MongoDB directly using yum
+   Command: `vim /etc/yum.repos.d/mongodb-org-4.4.repo`
       ```
       [mongodb-org-4.4]
       name=MongoDB Repository
