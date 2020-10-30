@@ -10,7 +10,7 @@
 
 ### A, Installing Prerequisites
 
-1, Install Node.js
+#### 1, Install Node.js
 
    A, We need to add yum repository by typing `curl -sL https://rpm.nodesource.com/setup_10.x | sudo bash -`
    
