@@ -31,3 +31,13 @@
       enabled=1
       gpgkey=https://www.mongodb.org/static/pgp/server-4.4.asc
       
+    B, Install MongoDB by Typing `sudo yum install -y mongodb-org`
+    
+#### 3, Install Redis
+
+   A, Enabling the Remi repository by running the following commands
+   
+   
+      sudo yum install epel-release yum-utils
+      sudo yum install http://rpms.remirepo.net/enterprise/remi-release-7.rpm
+      sudo yum-config-manager --enable remi
