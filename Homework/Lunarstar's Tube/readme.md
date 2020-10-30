@@ -3,10 +3,10 @@
 ### Using Nodetube https://github.com/mayeaux/nodetube
 
 ### Required Software: 
-#### Node.js 8.0+
-#### MongoDB
-#### Redis
-#### ffmpeg
+- Node.js 8.0+
+- MongoDB
+- Redis
+- ffmpeg
 
 ### A, Installing Prerequisites
 
