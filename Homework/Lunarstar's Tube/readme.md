@@ -1,4 +1,4 @@
-### System Platform: CentOS-7-x86_64-DVD-2003 Minimal Install Virtual Machine
+### System Platform: CentOS-7-x86_64-DVD-2003 Minimal Install Virtual Machine (Manual install vim)
 
 ### Using Nodetube https://github.com/mayeaux/nodetube
 
@@ -12,7 +12,7 @@
 
 #### 1, Install Node.js
 
-   A, We need to add yum repository by typing `curl -sL https://rpm.nodesource.com/setup_10.x | sudo bash -`
+   A, We need to add yum repository by typing `sudo curl -sL https://rpm.nodesource.com/setup_10.x | sudo bash -`
    
    B, Once Repo is Installed, Type `sudo yum install nodejs` to install Node.js
    
@@ -22,8 +22,8 @@
 
    A, Create a /etc/yum.repos.d/mongodb-org-4.4.repo file so that you can install MongoDB directly using yum
    
-   Command: `vim /etc/yum.repos.d/mongodb-org-4.4.repo`
-   
+   Command: `sudo vim /etc/yum.repos.d/mongodb-org-4.4.repo`
+      ```
       [mongodb-org-4.4]
       name=MongoDB Repository
       baseurl=https://repo.mongodb.org/yum/redhat/$releasever/mongodb-org/4.4/x86_64/
