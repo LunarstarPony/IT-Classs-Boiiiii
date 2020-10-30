@@ -41,3 +41,11 @@
       sudo yum install epel-release yum-utils
       sudo yum install http://rpms.remirepo.net/enterprise/remi-release-7.rpm
       sudo yum-config-manager --enable remi
+
+   B, Install Redis by typing `sudo yum -y install redis`
+   
+#### 4, Install FFmpeg
+
+   A, The RPM Fusion repository depends on the EPEL software repository. If the EPEL is not enabled on your system, enable it by typing:
+   
+      sudo yum install epel-release
