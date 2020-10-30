@@ -55,8 +55,14 @@
    C, Once the repo is enable, Install FFmpeg
    
       sudo yum install ffmpeg ffmpeg-devel
+      
+#### 5, Install git
+   
+   A, Install git by typing 
+   
+      sudo yum install git
      
-#### 5,Enable and Start all the Service we just install
+#### 6, Enable and Start all the Service we just install
 
    A, Enable all the service by typing
       
@@ -67,3 +73,21 @@
       
       sudo systemctl start mongod
       sudo systemctl start redis
+
+### B, Install NodeTube
+
+   1, Get the latest version of NodeTube by Typing 
+   
+      git clone https://github.com/mayeaux/nodetube
+      
+   2, Enter NodeTube folder that just created
+   
+      cd nodetube
+      
+   3,Install Node Modules
+   
+      npm install
+      
+   4,Just start our app!
+   
+      npm start
