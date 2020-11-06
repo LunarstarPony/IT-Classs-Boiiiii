@@ -46,3 +46,5 @@ CIA Triad: confidentiality, integrity, and availability
 
 群众集资(crowdfunding)
 
+HTTP: Hypertext Transfer Protocal
+
