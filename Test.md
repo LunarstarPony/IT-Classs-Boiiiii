@@ -85,8 +85,17 @@
 
 ### CMS
 
-    
 
+### DDoS Attack
+    
+    AKA distributed denial-of-service attack
+    
+    the incoming traffic flooding the victim originates from many different sources, Making real customer unable to connect.
+    
+    Might have over 1K sources makes it impossible to block.
+    
+![alt text](https://ruggedtooling.com/wp-content/uploads/2018/09/Botnet_Attack.png)
+    
 ### OSI Model Layers
 
     Application: HTTP, FTP
