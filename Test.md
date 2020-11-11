@@ -15,7 +15,10 @@
     Passive tags are powered by RFID Reader and have a shorter Range
     Active tags are powered by a Battery with a longer range
     
-    Some Door Lock use RFID System to indentify user.
+   Often using for Access Control.
+   
+   Doors, Scooters,  
+   
 ![alt text](https://ae01.alicdn.com/kf/H17b7013e7c34456885ce1422eb844df32/Door-RF-Card-Password-Keyboard-Access-Control-System-Device-Machine-Security-125Khz-RFID-Proximity-Entry-Door.jpg_Q90.jpg_.webp)
     
     
