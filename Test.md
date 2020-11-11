@@ -5,7 +5,8 @@
     
     Typically, bandwidth is expressed as a bitrate and measured in bits per second (bps).
     
-    We Usually use MB/s btw
+    
+![alt text](https://www.lifewire.com/thmb/Xn0qPM47NVxQNgw44piMWA1SaG0=/1550x1033/filters:fill(auto,1)/what-is-bandwidth-26258091-957d0a321cbe4b09b05b4b211b7e7e6b.png)
 
 ### RFID
     AKA Radio-Fequency identification
