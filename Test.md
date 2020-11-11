@@ -94,7 +94,7 @@
     
     Might have over 1K sources makes it impossible to block.
     
-![alt text](https://ruggedtooling.com/wp-content/uploads/2018/09/Botnet_Attack.png)
+![alt text](https://thekernel.ru/wp-content/uploads/2018/04/attack1.png)
 
 ### Botnet
 
