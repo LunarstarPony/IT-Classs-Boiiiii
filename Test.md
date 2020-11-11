@@ -5,7 +5,6 @@
     
     Typically, bandwidth is expressed as a bitrate and measured in bits per second (bps).
     
-    
 ![alt text](https://www.lifewire.com/thmb/Xn0qPM47NVxQNgw44piMWA1SaG0=/1550x1033/filters:fill(auto,1)/what-is-bandwidth-26258091-957d0a321cbe4b09b05b4b211b7e7e6b.png)
 
 ### RFID
@@ -17,7 +16,7 @@
     
    Often using for Access Control.
    
-   Doors, Scooters,  
+   Doors, Scooters and Cars.
    
 ![alt text](https://ae01.alicdn.com/kf/H17b7013e7c34456885ce1422eb844df32/Door-RF-Card-Password-Keyboard-Access-Control-System-Device-Machine-Security-125Khz-RFID-Proximity-Entry-Door.jpg_Q90.jpg_.webp)
     
@@ -55,6 +54,8 @@
 ### Crowdsourcing
 
     Crowdsourcing is the practice of engaging a ‘crowd’ or group for a common goal — often innovation, problem solving, or efficiency.
+    
+![alt text](https://www.clickworker.de/wp-content/uploads/2018/03/crowdsourcing-entwicklung.jpg)
 
 Crowdfunding, Crowdfunding is the practice of funding a project or venture by raising small amounts of money from a large number of people
 
