@@ -10,8 +10,9 @@ Crowdsourcing, Crowdsourcing is the practice of engaging a ‘crowd’ or group 
 
 Crowdfunding, Crowdfunding is the practice of funding a project or venture by raising small amounts of money from a large number of people
 
-OSI Model Layers: Application: HTTP, FTP
-                  Presentation: JPG, GIFS, ASCII
+###OSI Model Layers: 
+Application: HTTP, FTP
+Presentation: JPG, GIFS, ASCII
                   Session: NetBIOS, PPTP, RPC, PAP
                   Transport: TCP/UDP(Ports)
                   Network: Routers,Layer 3 Switches(IP Address)
