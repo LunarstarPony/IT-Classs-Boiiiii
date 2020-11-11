@@ -39,7 +39,7 @@
     
     Commonly used on Phones, Cars and some IOT Devices.
 
-![alt text](https://www.eetimes.com/wp-content/uploads/media-1310457-image1-min.jpg)
+![alt text](https://www.researchgate.net/profile/Vassilios_Vassilakis/publication/303590469/figure/fig2/AS:366680690708483@1464434897692/A-Software-Defined-Cellular-Network-Architecture.png)
 
 ### Technology Addiction
 
