@@ -32,11 +32,26 @@
 
 ### Cellular Network
 
-AKA Mobile Network(4G LTE)
+    AKA Mobile Network(4G LTE)
 
-Technology Addiction, Child using phones a lot?
+    A cellular network or mobile network is a communication network where the last link is wireless.
+    The network is distributed over land areas called "cells".
+    
+    Commonly used on Phones, Cars and some IOT Devices.
 
-Crowdsourcing, Crowdsourcing is the practice of engaging a ‘crowd’ or group for a common goal — often innovation, problem solving, or efficiency.
+![alt text](https://www.eetimes.com/wp-content/uploads/media-1310457-image1-min.jpg)
+
+### Technology Addiction
+
+    Technology is everywhere, and it is not going away. Teenagers stare down at their iPhones, 
+    or keep their eyes glued to a tablet or laptop, instead of observing the world around them.
+    
+    Chat more to others around ya :)
+    
+![alt text](https://www.coraservices.org/wp-content/uploads/2018/08/Technology-Addiction.jpg)
+### Crowdsourcing
+
+    Crowdsourcing is the practice of engaging a ‘crowd’ or group for a common goal — often innovation, problem solving, or efficiency.
 
 Crowdfunding, Crowdfunding is the practice of funding a project or venture by raising small amounts of money from a large number of people
 
