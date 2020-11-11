@@ -15,6 +15,7 @@
     Active tags are powered by a Battery with a longer range
     
     Some Door Lock use RFID System to indentify user.
+![alt text](https://ae01.alicdn.com/kf/H17b7013e7c34456885ce1422eb844df32/Door-RF-Card-Password-Keyboard-Access-Control-System-Device-Machine-Security-125Khz-RFID-Proximity-Entry-Door.jpg_Q90.jpg_.webp)
     
     
 
@@ -28,7 +29,9 @@
     
 ![alt text](https://www.konstantinfo.com/blog/wp-content/uploads/2019/07/top-nfc-payment-apps.png)
 
-Cellular Network, Welp 4G Internet Mobile Internet
+### Cellular Network
+
+AKA Mobile Network(4G LTE)
 
 Technology Addiction, Child using phones a lot?
 
