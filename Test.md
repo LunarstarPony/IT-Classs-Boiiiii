@@ -95,6 +95,16 @@
     Might have over 1K sources makes it impossible to block.
     
 ![alt text](https://ruggedtooling.com/wp-content/uploads/2018/09/Botnet_Attack.png)
+
+### Botnet
+
+    Bot net is a number or Internet-Connected Devices that's running one or few bots
+    
+    Bot net can be used for DDoS Attack, Steal Data, Send Spam and allow the attacker to access it's device and connection.
+    
+    It's usually Comuters that got infected by Virus
+    
+![alt text](https://blog.emsisoft.com/wp-content/uploads/2017/05/botnets_infographic-1.png)    
     
 ### OSI Model Layers
 
