@@ -26,7 +26,7 @@
     
     Used in most of the modern SmartPhone for Payment and Bluetooth Pairing.
     
-![alt text](https://https://github.com/LunarstarPony/IT-Classs-Boiiiii/blob/main/top-nfc-payment-apps.png)
+![alt text](https://www.konstantinfo.com/blog/wp-content/uploads/2019/07/top-nfc-payment-apps.png)
 
 Cellular Network, Welp 4G Internet Mobile Internet
 
