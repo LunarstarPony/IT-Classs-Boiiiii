@@ -1,14 +1,31 @@
 ### Bandwidth and bps
     
-    Bandwidth is measured as the amount of data that can be transferred from one point to another within a network in 
-    a specific amount of time.
+    Bandwidth is measured as the amount of data that can be transferred from one point to another 
+    within a network in a specific amount of time.
+    
     Typically, bandwidth is expressed as a bitrate and measured in bits per second (bps).
     
+    We Usually use MB/s btw
 
-### RFID 
-AKA Radio-Fequency identification
+### RFID
+    AKA Radio-Fequency identification
+    
+    There's 2 kind of RFID Tag Passive and Active.
+    Passive tags are powered by RFID Reader and have a shorter Range
+    Active tags are powered by a Battery with a longer range
+    
+    Some Door Lock use RFID System to indentify user.
+    
+    
 
-NFC AKA Near-field Communication
+### NFC 
+    AKA Near-field Communication
+    
+    Near-Field-Communication (NFC) is a set of communication protocols for communication 
+    between two electronic devices over a distance of 4 cm or less.
+    
+    Used in most of the modern SmartPhone for Payment and Bluetooth Pairing.
+    ![alt text](https://https://github.com/LunarstarPony/IT-Classs-Boiiiii/blob/main/top-nfc-payment-apps.png?raw=true)
 
 Cellular Network, Welp 4G Internet Mobile Internet
 
