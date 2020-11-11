@@ -11,18 +11,18 @@ Crowdsourcing, Crowdsourcing is the practice of engaging a ‘crowd’ or group 
 Crowdfunding, Crowdfunding is the practice of funding a project or venture by raising small amounts of money from a large number of people
 
 ### OSI Model Layers
-      Application: HTTP, FTP
-      Presentation: JPG, GIFS, ASCII
-      Session: NetBIOS, PPTP, RPC, PAP
-      Transport: TCP/UDP(Ports)
-      Network: Routers,Layer 3 Switches(IP Address)
-      Datalink: Switches(MAC Address)
-      Physical: Hubs, NICS, Cables
+    Application: HTTP, FTP
+    Presentation: JPG, GIFS, ASCII
+    Session: NetBIOS, PPTP, RPC, PAP
+    Transport: TCP/UDP(Ports)
+    Network: Routers,Layer 3 Switches(IP Address)
+    Datalink: Switches(MAC Address)
+    Physical: Hubs, NICS, Cables
 
 ### TCP/IP Layers 
-      Application: HTTP
-      Transport: TCP, UDP
-      Network: IP, ARP, ICMP, IGMP
-      Network Interface: Ethernet
+    Application: HTTP
+    Transport: TCP, UDP
+    Network: IP, ARP, ICMP, IGMP
+    Network Interface: Ethernet
 
 Why layering OSI Model: The model uses layers to help give a visual description of what is going on with a particular networking system.
