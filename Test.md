@@ -54,12 +54,41 @@
 ### Crowdsourcing
 
     Crowdsourcing is the practice of engaging a ‘crowd’ or group for a common goal — often innovation, problem solving, or efficiency.
+    Powered by New Techonology, Social Media.
     
 ![alt text](https://www.clickworker.de/wp-content/uploads/2018/03/crowdsourcing-entwicklung.jpg)
 
-Crowdfunding, Crowdfunding is the practice of funding a project or venture by raising small amounts of money from a large number of people
+### Crowdfunding
+    
+    Crowdfunding is the practice of funding a project or venture by 
+    raising small amounts of money from a large number of people.
+    
+    Most of them are just Concept
+    
+    Having a lot of platform such as Indiegogo, Kickstarter.
+    
+![alt text](https://flexibilian.com/wp-content/uploads/2016/08/cfplatforms.jpg)
+
+### Difference between Crowdfunding and Crowdsourcing
+
+    crowdsourcing is the sourcing of anything from a crowd
+    
+    crowdfunding is the sourcing of funds from a crowd. So crowdfunding is actually a specific type of crowdsourcing
+    
+### Metadata
+
+    Matadata is "Data that Provides information about other data".
+    
+    Metadata is everywhere including Photos, Videos and files.
+    
+![alt text](https://www.crossref.org/images/education/metadata-users-uses.png)
+
+### CMS
+
+    
 
 ### OSI Model Layers
+
     Application: HTTP, FTP
     Presentation: JPG, GIFS, ASCII
     Session: NetBIOS, PPTP, RPC, PAP
@@ -68,7 +97,8 @@ Crowdfunding, Crowdfunding is the practice of funding a project or venture by ra
     Datalink: Switches(MAC Address)
     Physical: Hubs, NICS, Cables
 
-### TCP/IP Layers 
+### TCP/IP Layers
+
     Application: HTTP
     Transport: TCP, UDP
     Network: IP, ARP, ICMP, IGMP
