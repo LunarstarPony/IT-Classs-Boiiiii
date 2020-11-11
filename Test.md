@@ -1,9 +1,11 @@
 ### Bandwidth and bps
     
-    Bandwidth is measured as the amount of data that can be transferred from one point to another within a network in a specific amount of time. Typically, bandwidth is expressed 
-    as a bitrate and measured in bits per second (bps).
+    Bandwidth is measured as the amount of data that can be transferred from one point to another within a network in a specific amount of time.
+    Typically, bandwidth is expressed as a bitrate and measured in bits per second (bps).
+    
 
-RFID AKA Radio-Fequency identification
+### RFID 
+AKA Radio-Fequency identification
 
 NFC AKA Near-field Communication
 
