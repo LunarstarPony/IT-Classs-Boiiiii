@@ -147,23 +147,23 @@
 ### OSI Model Layers
 
     Physical layer is responsible for sending bits from one computer to another.
-    Datalink layer is responsible for transfers data between nodes on a network segment across the physical layer.
-	Network layer responsible for the transmission of data from one host to the other located in different networks. 
-	Transport layer provides services to application layer and takes services from network layer.
-    Session layer is responsible for establishment of connection, maintenance of sessions, authentication and also ensures security.
-    Presentation layer extracted The data from the application layer and manipulated as per the required format to transmit to network.
-    Application layer specifies the shared communications protocols and interface methods used by hosts in a communications network.
+    Datalink layer provides function for Encapsulation, Frame synchronization, Logical link control (Error & Flow control), Media access control (MAC, LAN switching, Physical addressing, QaS, VLAN, ...)
+	Network layer provides function for Connection model, Host addressing and Message forwarding. 
+	Transport layer provides the application-oriented layers 5 to 7 standardized access so that they do not need to consider the characteristics of the communications network.
+    Session layer provides functions for Authentication, Authorization and Session restoration.
+    Presentation layer provides functions for De/Encryption, data Coversion and compression.
+    Application layer provides functions for applications and also connection to lower layer.
 
     
 ### OSI Model Layers
 
-    Application: HTTP, FTP
-    Presentation: JPG, GIFS, ASCII
-    Session: NetBIOS, PPTP, RPC, PAP
-    Transport: TCP/UDP(Ports)
-    Network: Routers,Layer 3 Switches(IP Address)
-    Datalink: Switches(MAC Address)
-    Physical: Hubs, NICS, Cables
+    Application: DHCP, DNS, HTTP, HTTPS, SMTP,... 
+    Presentation: SSH, IMAP, FTP, TLS, SSL and AFP
+    Session: H.265, iSNS, NetBIOS, PAP, RPC, SDP,...
+    Transport: NetBIOS, iSCSI, SCTP, NBP, TCP, UDP,...
+    Network: IPX, NAT, SCCP, HSRP, IP, RIP, IPSEC
+    Datalink: ARP, ATM, DCAP, Ethernet, IEEE802.11 WiFi,...
+    Physical: USB, DSL, ISDN, IEEE 1394, TransferJet,...
 
 ### TCP/IP Layers
 
