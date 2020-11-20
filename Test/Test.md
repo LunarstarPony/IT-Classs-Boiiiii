@@ -151,7 +151,7 @@
 	Network layer responsible for the transmission of data from one host to the other located in different networks. 
 	Transport layer provides services to application layer and takes services from network layer.
     Session layer is responsible for establishment of connection, maintenance of sessions, authentication and also ensures security.
-    Presentation layer extracted The data from the application layer and manipulated as per the required format to transmit over the network.
+    Presentation layer extracted The data from the application layer and manipulated as per the required format to transmit to network.
 
 
     
