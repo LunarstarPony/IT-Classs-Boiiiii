@@ -115,7 +115,7 @@
     
     Used in every website nowdays
     
-![alt text](https://static1.squarespace.com/static/54ea37dfe4b09706d4a8f4f8/5a4ff65453450a3c121db6f1/5b468e352b6a286a633067b6/1582666994193/responsive-web-design-griffin-co-marketing.png?format=1500w)
+![alt text](https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://www.atilus.com/wp-content/uploads/2018/01/resposive_web_design_img.png)
     
 ### OSI Model Layers
 
