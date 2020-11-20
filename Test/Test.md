@@ -152,7 +152,7 @@
 	Transport layer provides services to application layer and takes services from network layer.
     Session layer is responsible for establishment of connection, maintenance of sessions, authentication and also ensures security.
     Presentation layer extracted The data from the application layer and manipulated as per the required format to transmit to network.
-
+    Application layer specifies the shared communications protocols and interface methods used by hosts in a communications network.
 
     
 ### OSI Model Layers
