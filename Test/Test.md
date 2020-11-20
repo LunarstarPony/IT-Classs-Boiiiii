@@ -105,6 +105,17 @@
     It's usually Comuters that got infected by Virus
     
 ![alt text](https://blog.emsisoft.com/wp-content/uploads/2017/05/botnets_infographic-1.png)    
+
+### RWD
+ 
+    AKA Responsive web design
+    
+    Responsive Web design is the approach that suggests that design and development 
+    should respond to the user’s behavior and environment based on screen size, platform and orientation.
+    
+    Used in every website nowdays
+    
+![alt text](https://static1.squarespace.com/static/54ea37dfe4b09706d4a8f4f8/5a4ff65453450a3c121db6f1/5b468e352b6a286a633067b6/1582666994193/responsive-web-design-griffin-co-marketing.png?format=1500w)
     
 ### OSI Model Layers
 
