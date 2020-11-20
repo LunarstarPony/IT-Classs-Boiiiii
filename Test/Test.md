@@ -53,7 +53,8 @@
 ![alt text](https://www.coraservices.org/wp-content/uploads/2018/08/Technology-Addiction.jpg)
 ### Crowdsourcing
 
-    Crowdsourcing is the practice of engaging a ‘crowd’ or group for a common goal — often innovation, problem solving, or efficiency.
+    Crowdsourcing is the practice of engaging a ‘crowd’ or group for a common goal
+    often innovation, problem solving, or efficiency.
     Powered by New Techonology, Social Media.
     
 ![alt text](https://www.clickworker.de/wp-content/uploads/2018/03/crowdsourcing-entwicklung.jpg)
@@ -116,6 +117,36 @@
     Used in every website nowdays
     
 ![alt text](https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://www.atilus.com/wp-content/uploads/2018/01/resposive_web_design_img.png)
+
+### SEO
+
+    AKA Search engine optimization
+    
+    In simple terms, it means the process of improving your site to increase its visibility for relevant searches. 
+    The better visibility your pages have in search results, 
+    the more likely you are to garner attention and attract prospective and existing customers to your business.
+    
+    Used in most search Engine nowdays
+    
+### What's Communication Protocal?
+
+    Communication Protocal is a set of rules computer used to communicate with others.
+    The protocol defines the signals that the computers will give each other, 
+    and other details such as how communication begins and/or ends.
+    
+### Why layering
+
+    In networking, layering means to break up the sending of messages into separate components and activities.
+    Each component handles a different part of the communication. 
+    This can be referred to as the Transmission Control Protocol/Internet Protocol (TCP/IP) model.
+    
+### OSI Model and TCP/IP Correspondece
+
+![alt text](https://www.guru99.com/images/1/092119_0729_LayersofOSI3.png)
+
+###OSI Model
+
+
     
 ### OSI Model Layers
 
