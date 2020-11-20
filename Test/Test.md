@@ -146,8 +146,8 @@
 
 ### OSI Model Layers
 
-   Physical: Physocal layer is responsible for sending bits from one computer to another.
-   Datalink: Datalink layer is responsible for transfers data between nodes on a network segment across the physical layer.
+    Physical: Physocal layer is responsible for sending bits from one computer to another.
+    Datalink: Datalink layer is responsible for transfers data between nodes on a network segment across the physical layer.
 
 
 
