@@ -144,7 +144,12 @@
 
 ![alt text](https://www.guru99.com/images/1/092119_0729_LayersofOSI3.png)
 
-###OSI Model
+### OSI Model Layers
+
+   Physical: Physocal layer is responsible for sending bits from one computer to another.
+   Datalink: Datalink layer is responsible for transfers data between nodes on a network segment across the physical layer.
+
+
 
 
     
