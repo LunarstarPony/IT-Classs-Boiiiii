@@ -165,11 +165,31 @@
     Datalink: ARP, ATM, DCAP, Ethernet, IEEE802.11 WiFi,...
     Physical: USB, DSL, ISDN, IEEE 1394, TransferJet,...
 
-### TCP/IP Layers
+### HTTP vs HTTPS (Layer 7 Application Layer)
 
-    Application: HTTP
-    Transport: TCP, UDP
-    Network: IP, ARP, ICMP, IGMP
-    Network Interface: Ethernet
+    HTTP AKA Hypertext Transfer Protocal
+	
+	Hypertext Transfer Protocol (HTTP) is an application-layer protocol for transmitting hypermedia documents, such as HTML.
+    HTTPS is and extension of HTTP for Secure Comminucation.
+	In HTTPS, the communication protocol is encrypted using Transport Layer Security (TLS) or, formerly, Secure Sockets Layer (SSL). 
+	
+### TELNET vs SSH (Layer 7 Application Layer)
 
-Why layering OSI Model: The model uses layers to help give a visual description of what is going on with a particular networking system.
+    Both Telnet and SSH are typically used to log into a machine and execute commands, however
+	Telnet is Design specifically for local area network and SSH is design for Remote Access over Internet.
+	Telnet and SSH both are Layer 7 application layer protocal.
+	
+### DNS (Layer 7 Application Layer)
+   
+    DNS AKA Domain Name System
+	DNS is like a Phonebook of the Internet，users access information online through Domian names like google.com or lunarstarpony.xyz.
+	Web browsers interact through Internet Protocol (IP) addresses. 
+	DNS translates domain names to IP addresses so browsers can load Internet resources.
+	
+### IP (Layer 3 Network Layer)
+
+    IP AKA Internet Protocal
+	An internet protocol (IP) address allows computers to send and receive information.
+	There are four types of IP addresses: public, private, static, and dynamic.
+	An IP address allows information to be sent and received by the correct parties, 
+	which means they can also be used to track down a user's physical location.
