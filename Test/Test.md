@@ -8,7 +8,8 @@
 ![alt text](https://www.lifewire.com/thmb/Xn0qPM47NVxQNgw44piMWA1SaG0=/1550x1033/filters:fill(auto,1)/what-is-bandwidth-26258091-957d0a321cbe4b09b05b4b211b7e7e6b.png)
 
 ### RFID
-    AKA Radio-Fequency identification
+
+##### AKA Radio-Fequency identification
     
     There's 2 kind of RFID Tag Passive and Active.
     Passive tags are powered by RFID Reader and have a shorter Range
@@ -23,7 +24,8 @@
     
 
 ### NFC 
-    AKA Near-field Communication
+
+#####AKA Near-field Communication
     
     Near-Field-Communication (NFC) is a set of communication protocols for communication 
     between two electronic devices over a distance of 4 cm or less.
@@ -34,7 +36,7 @@
 
 ### Cellular Network
 
-    AKA Mobile Network(4G LTE)
+##### AKA Mobile Network(4G LTE)
 
     A cellular network or mobile network is a communication network where the last link is wireless.
     The network is distributed over land areas called "cells".
@@ -89,7 +91,7 @@
 
 ### DDoS Attack
     
-    AKA distributed denial-of-service attack
+##### AKA distributed denial-of-service attack
     
     the incoming traffic flooding the victim originates from many different sources, Making real customer unable to connect.
     
@@ -109,7 +111,7 @@
 
 ### RWD
  
-    AKA Responsive web design
+##### AKA Responsive web design
     
     Responsive Web design is the approach that suggests that design and development 
     should respond to the user’s behavior and environment based on screen size, platform and orientation.
@@ -120,8 +122,7 @@
 
 ### SEO
 
-    AKA Search engine optimization
-    
+##### AKA Search engine optimization
     In simple terms, it means the process of improving your site to increase its visibility for relevant searches. 
     The better visibility your pages have in search results, 
     the more likely you are to garner attention and attract prospective and existing customers to your business.
@@ -167,8 +168,7 @@
 
 ### HTTP vs HTTPS (Layer 7 Application Layer)
 
-    HTTP AKA Hypertext Transfer Protocal
-	
+##### HTTP AKA Hypertext Transfer Protocal
 	Hypertext Transfer Protocol (HTTP) is an application-layer protocol for transmitting hypermedia documents, such as HTML.
     HTTPS is and extension of HTTP for Secure Comminucation.
 	In HTTPS, the communication protocol is encrypted using Transport Layer Security (TLS) or, formerly, Secure Sockets Layer (SSL). 
@@ -181,15 +181,22 @@
 	
 ### DNS (Layer 7 Application Layer)
    
-    DNS AKA Domain Name System
+##### DNS AKA Domain Name System
 	DNS is like a Phonebook of the Internet，users access information online through Domian names like google.com or lunarstarpony.xyz.
 	Web browsers interact through Internet Protocol (IP) addresses. 
 	DNS translates domain names to IP addresses so browsers can load Internet resources.
 	
 ### IP (Layer 3 Network Layer)
 
-    IP AKA Internet Protocal
+##### IP AKA Internet Protocal
 	An internet protocol (IP) address allows computers to send and receive information.
 	There are four types of IP addresses: public, private, static, and dynamic.
 	An IP address allows information to be sent and received by the correct parties, 
 	which means they can also be used to track down a user's physical location.
+	
+### ICMP (Layer 3 Network Layer)
+
+##### ICMP AKA Internet Control Message Protocol
+	ICMP is a supporting protocol in the Internet protocol suite. 
+	It is used by network devices, including routers, 
+	to send error messages and operational information indicating success or failure when communicating with another IP address.
