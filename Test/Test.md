@@ -194,7 +194,7 @@
 	An IP address allows information to be sent and received by the correct parties, 
 	which means they can also be used to track down a user's physical location.
 	
-### ICMP (Layer 3 Network Layer)
+### ICMP (Layer 3 Network Layer) Test
 
 ##### ICMP AKA Internet Control Message Protocol
 	ICMP is a supporting protocol in the Internet protocol suite. 
