@@ -7,9 +7,8 @@
 ________("Hello, Python!")
 
 (A) print   (B) printf   (C) printline   (D) printn
-
-### B
 ```
+### B
 ```
 2.要在程式碼中新增一行註解，底下程式需使用哪個符號:
 
